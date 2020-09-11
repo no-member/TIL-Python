@@ -20,3 +20,12 @@ print()
 
 print('딕셔너리 값에 접근하기')
 print('lux["health"]', lux['health'])
+
+print()
+print('in?')
+print('health' in lux4)
+print('health' not in lux4)
+
+print()
+print('딕셔너리의 길이')
+print(len(lux)) 

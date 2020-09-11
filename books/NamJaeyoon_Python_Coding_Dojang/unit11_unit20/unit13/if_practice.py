@@ -1,8 +1,9 @@
 print('if')
 x = 20
 if x == 20:
-    print('x는 20입니다.')
+    print('x는 20입니다')
 print()
+
 
 print('pass')
 x = 10
