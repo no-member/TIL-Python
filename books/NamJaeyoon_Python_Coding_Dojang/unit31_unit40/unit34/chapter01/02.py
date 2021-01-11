@@ -1,0 +1,16 @@
+a = int(10)
+print(a)
+print(type(a))
+print()
+
+b = list(range(10))
+print(b)
+b.append(20)
+print(b)
+print(type(b))
+print()
+
+c = dict(x=10, y=10)
+print(c)
+print(type(c))
+print()
